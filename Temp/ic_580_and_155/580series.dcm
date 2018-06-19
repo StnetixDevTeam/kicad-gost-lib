@@ -1,0 +1,71 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KP580GF24
+D clock generator (Intel 8224)
+K clock generator PDIP16
+$ENDCMP
+#
+$CMP KP580IR82
+D 8-bit latch register (Intel 8282)
+K 8bit latch register PDIP20
+$ENDCMP
+#
+$CMP KP580IR83
+D 8-bit latch register with inversion (Intel 8283)
+K 8bit latch register inversion PDIP20
+$ENDCMP
+#
+$CMP KP580VA86
+D 8 bit bus driver (Intel 8286)
+K 8bit bus driver PDIP20
+$ENDCMP
+#
+$CMP KP580VA87
+D 8 bit bus driver with inversion (Intel 8287)
+K 8bit bus driver inversion PDIP20
+$ENDCMP
+#
+$CMP KP580VG75
+D CRT controller (Intel 8275)
+$ENDCMP
+#
+$CMP KP580VI53
+D programmable interval 3-channel timer / counter (Intel 8253)
+K interval timer PDIP24
+$ENDCMP
+#
+$CMP KP580VK28
+D system controller and bus driver (Intel 8228)
+K system controller bus driver PDIP20
+$ENDCMP
+#
+$CMP KP580VK38
+D system controller and bus driver (Intel 8238)
+K system controller bus driver PDIP20
+$ENDCMP
+#
+$CMP KP580VM80A
+D 8bit Microprocessor (Intel 8080A)
+K i8080 microprocessor 8bit PDIP40
+$ENDCMP
+#
+$CMP KP580VN59
+D programmable interrupt controller (Intel 8259)
+K  interrupt controller PDIP28
+$ENDCMP
+#
+$CMP KP580VT57
+D DMA controller (Intel 8257)
+K dma PDIP40
+$ENDCMP
+#
+$CMP KP580VV51A
+D serial I/O controler (Intel 8251A)
+$ENDCMP
+#
+$CMP KP580VV55A
+D programmable parallel I/O controller (Intel 8255A)
+K input output port PDIP40
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CK_THERMOCOND
+D Термоконд
+$ENDCMP
+#
+$CMP CU_VARICOND
+D Вариконд
+$ENDCMP
+#
+$CMP C_CAP
+D Конденсатор постоянной емкости
+$ENDCMP
+#
+$CMP C_CAP_PLUS
+D Конденсатор полярный
+$ENDCMP
+#
+$CMP C_CAP_TUNE
+D Конденсатор подстроечный
+$ENDCMP
+#
+$CMP C_CAP_VAR
+D Конденсатор переменной емкости
+$ENDCMP
+#
+$CMP C_CAP_VAR_DBL
+D Конденсатор переменной емкости двухсекционный
+$ENDCMP
+#
+$CMP C_ELECTR
+D Конденсатор электролитический неполярный
+$ENDCMP
+#
+$CMP C_ELECTR_PLUS
+D Конденсатор электролитический полярный
+$ENDCMP
+#
+$CMP C_SPICE
+D Конденсатор (SPICE модель)
+$ENDCMP
+#
+#End Doc Library

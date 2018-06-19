@@ -1,0 +1,35 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BA_SPEAKER
+D Динамик
+$ENDCMP
+#
+$CMP BF_PHONE
+D Телефон
+$ENDCMP
+#
+$CMP BM_MIC
+D Микрофон
+$ENDCMP
+#
+$CMP BM_MIC_OSTEO
+D Остеофон
+$ENDCMP
+#
+$CMP BS_ULTRASONIC
+D Ультразвуковой приемопередатчик
+$ENDCMP
+#
+$CMP HA_ALARM
+D Сигнализация
+$ENDCMP
+#
+$CMP HA_RING
+D Звонок
+$ENDCMP
+#
+$CMP HA_ZUMMER
+D Зуммер
+$ENDCMP
+#
+#End Doc Library

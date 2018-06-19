@@ -1,0 +1,95 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XB_DEMOUNT
+D Перемычка контактная разборного соединения
+$ENDCMP
+#
+$CMP XB_JMP_PIN
+D Перемычка коммутационная на размыкание c выведенным штырем
+$ENDCMP
+#
+$CMP XB_JMP_SOCKET
+D Перемычка коммутационная на размыкание c выведенным гнездом
+$ENDCMP
+#
+$CMP XB_JUMPER
+D Перемычка коммутационная на переключение
+$ENDCMP
+#
+$CMP XB_MOLDED
+D Перемычка контактная неразборного соединения
+$ENDCMP
+#
+$CMP XN_CONTACT
+D Контакт неразборного соединения
+$ENDCMP
+#
+$CMP XN_CONTACT_ARR2
+D Неразборное соединение на 2 контакта
+$ENDCMP
+#
+$CMP XN_CONTACT_ARR3
+D Неразборное соединение на 3 контакта
+$ENDCMP
+#
+$CMP XN_CONTACT_ARR4
+D Неразборное соединение на 4 контакта
+$ENDCMP
+#
+$CMP XP_PIN
+D Штырь
+$ENDCMP
+#
+$CMP XP_PIN_ARR2
+D Штыревое соединение на 2 контакта
+$ENDCMP
+#
+$CMP XP_PIN_ARR3
+D Штыревое соединение на 3 контакта
+$ENDCMP
+#
+$CMP XP_PIN_ARR4
+D Штыревое соединение на 4 контакта
+$ENDCMP
+#
+$CMP XS_SOCKET
+D Гнездо
+$ENDCMP
+#
+$CMP XS_SOCKET_ARR2
+D Гнездовое соединение на 2 контакта
+$ENDCMP
+#
+$CMP XS_SOCKET_ARR3
+D Гнездовое соединение на 3 контакта
+$ENDCMP
+#
+$CMP XS_SOCKET_ARR4
+D Гнездовое соединение на 4 контакта
+$ENDCMP
+#
+$CMP XT_CONTACT
+D Контакт разборного соединения
+$ENDCMP
+#
+$CMP XT_CONTACT_ARR2
+D Разборное соединение на 2 контакта
+$ENDCMP
+#
+$CMP XT_CONTACT_ARR3
+D Разборное соединение на 3 контакта
+$ENDCMP
+#
+$CMP XT_CONTACT_ARR4
+D Разборное соединение на 4 контакта
+$ENDCMP
+#
+$CMP XW_COAXIAL_PIN
+D Штырь коаксиального разъема
+$ENDCMP
+#
+$CMP XW_COAXIAL_SOCKET
+D Гнездо коаксиального разъема
+$ENDCMP
+#
+#End Doc Library

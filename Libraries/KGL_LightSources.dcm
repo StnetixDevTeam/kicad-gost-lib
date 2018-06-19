@@ -1,0 +1,35 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EL_ARC
+D Лампа дуговая
+$ENDCMP
+#
+$CMP EL_GAS
+D Лампа газоразрядная низкого давления
+$ENDCMP
+#
+$CMP EL_GAS_QUADRO
+D Лампа газоразрядная низкого давления с четырьмя выводами
+$ENDCMP
+#
+$CMP EL_LAMP
+D Лампа накаливания
+$ENDCMP
+#
+$CMP EL_LAMP_IR
+D Лампа накаливания инфракрасная
+$ENDCMP
+#
+$CMP EL_LAMP_QUADRO
+D Лампа двухнитевая с четырьмя выводами
+$ENDCMP
+#
+$CMP EL_LAMP_TRIPLE
+D Лампа двухнитевая с тремя выводами
+$ENDCMP
+#
+$CMP HL_NEON
+D Лампа тлеющего разряда
+$ENDCMP
+#
+#End Doc Library

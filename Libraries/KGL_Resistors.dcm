@@ -1,0 +1,115 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RK_THERM_MINUS
+D Термистор с отрицательным ТКС
+$ENDCMP
+#
+$CMP RK_THERM_PLUS
+D Термистор с положительным ТКС
+$ENDCMP
+#
+$CMP RL_PHOTO
+D Фоторезистор
+$ENDCMP
+#
+$CMP RN_HUMIDITY
+D Резистивный датчик влажности
+$ENDCMP
+#
+$CMP RP_POTENT
+D Потенциометр
+$ENDCMP
+#
+$CMP RP_POTENT_DBL
+D Потенциометр сдвоенный
+$ENDCMP
+#
+$CMP RP_POTENT_SW
+D Потенциометр c замыкателем
+$ENDCMP
+#
+$CMP RP_TRIMMER
+D Резистор подстроечный
+$ENDCMP
+#
+$CMP RR_RHEOST_LIN
+D Реостат линейный
+$ENDCMP
+#
+$CMP RR_RHEOST_NLIN
+D Реостат нелинейный
+$ENDCMP
+#
+$CMP RU_VARISTOR
+D Варистор
+$ENDCMP
+#
+$CMP R_HEAT
+D Нагреватель
+$ENDCMP
+#
+$CMP R_MAGNET_LIN
+D Резистор магниточувствительный линейный
+$ENDCMP
+#
+$CMP R_MAGNET_NLIN
+D Резистор магниточувствительный нелинейный
+$ENDCMP
+#
+$CMP R_RES
+D Резистор постоянный
+$ENDCMP
+#
+$CMP R_RES_0.05W
+D Резистор 0.05 Ватт
+$ENDCMP
+#
+$CMP R_RES_0.125W
+D Резистор 0.125 Ватт
+$ENDCMP
+#
+$CMP R_RES_0.25W
+D Резистор 0.25 Ватт
+$ENDCMP
+#
+$CMP R_RES_0.5W
+D Резистор 0.5 Ватт
+$ENDCMP
+#
+$CMP R_RES_1.0W
+D Резистор 1.0 Ватт
+$ENDCMP
+#
+$CMP R_RES_10.0W
+D Резистор 10.0 Ватт
+$ENDCMP
+#
+$CMP R_RES_2.0W
+D Резистор 2.0 Ватт
+$ENDCMP
+#
+$CMP R_RES_5.0W
+D Резистор 5.0 Ватт
+$ENDCMP
+#
+$CMP R_SPICE
+D Резистор (SPICE модель)
+$ENDCMP
+#
+$CMP R_TENZOR_LIN
+D Тензорезистор линейный
+$ENDCMP
+#
+$CMP R_TENZOR_NLIN
+D Тензорезистор нелинейный
+$ENDCMP
+#
+$CMP R_TUNE_LIN
+D Резистор подстроечный линейный
+$ENDCMP
+#
+$CMP R_TUNE_NLIN
+D Резистор подстроечный нелинейный
+$ENDCMP
+#
+#End Doc Library

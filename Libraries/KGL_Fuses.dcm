@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FS_FUSE_DISCONN
+D Разъединитель-предохранитель
+$ENDCMP
+#
+$CMP FS_FUSE_SWITCH
+D Выключатель-предохранитель
+$ENDCMP
+#
+$CMP FU_FUSE
+D Предохранитель плавкий
+$ENDCMP
+#
+$CMP FU_FUSE_FAST
+D Предохранитель плавкий быстродействующий
+$ENDCMP
+#
+$CMP FU_FUSE_HARD
+D Предохранитель тугоплавкий
+$ENDCMP
+#
+$CMP FU_FUSE_SLOW
+D Предохранитель инерционно-плавкий
+$ENDCMP
+#
+$CMP FV_FUSE_SPARK
+D Предохранитель пробивной
+$ENDCMP
+#
+$CMP FV_SPARK
+D Разрядник
+$ENDCMP
+#
+$CMP FV_SPARK_GAP
+D Искровой промежуток
+$ENDCMP
+#
+$CMP FV_SPARK_GAS
+D Разрядник газовый
+$ENDCMP
+#
+$CMP FV_SPARK_SPHERE
+D Разрядник шаровой
+$ENDCMP
+#
+$CMP FV_SPARK_TUBE
+D Разрядник трубчатый
+$ENDCMP
+#
+$CMP FV_SPARK_VACUUM
+D Разрядник вакуумный
+$ENDCMP
+#
+$CMP FV_SPARK_VENT
+D Разрядник вентильный и магнитовентильный
+$ENDCMP
+#
+$CMP F_FUSE_COIL
+D Катушка термическая предохранительная
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ_QUARTZ
+D Пьезоэлектрический элемент
+$ENDCMP
+#
+$CMP BQ_QUARTZ_HERM
+D Пьезоэлектрический элемент герметичный
+$ENDCMP
+#
+$CMP B_ELECTRET
+D Электрет
+$ENDCMP
+#
+$CMP B_HALL
+D Датчик Холла
+$ENDCMP
+#
+$CMP M_MOTOR
+D Мотор постоянного тока
+$ENDCMP
+#
+$CMP PA_AMMETER_AC
+D Амперметр переменного тока
+$ENDCMP
+#
+$CMP PA_AMMETER_DC
+D Амперметр постоянного тока
+$ENDCMP
+#
+$CMP PV_VOLTMETER_AC
+D Вольтметр переменного тока
+$ENDCMP
+#
+$CMP PV_VOLTMETER_DC
+D Вольтметр постоянного тока
+$ENDCMP
+#
+$CMP WA_ANT
+D Антенна
+$ENDCMP
+#
+$CMP WA_ANT_FRAME
+D Антенна рамочная
+$ENDCMP
+#
+$CMP WA_ANT_MAGNET
+D Антенна с феромагнитным сердечником
+$ENDCMP
+#
+#End Doc Library

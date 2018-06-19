@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+D Напряжение питания (+12В)
+$ENDCMP
+#
+$CMP +5V
+D Напряжение питания (+5В)
+$ENDCMP
+#
+$CMP +9V
+D Напряжение питания (+9В)
+$ENDCMP
+#
+$CMP -12V
+D Напряжение питания (-12В)
+$ENDCMP
+#
+$CMP -5V
+D Напряжение питания (-5В)
+$ENDCMP
+#
+$CMP -9V
+D Напряжение питания (-9В)
+$ENDCMP
+#
+$CMP 0
+D Нулевой потенциал схемы (SPICE модель)
+$ENDCMP
+#
+$CMP BK_THERMOPAIR
+D Термопара
+$ENDCMP
+#
+$CMP COM
+D Соединение с общим проводом (корпусом)
+$ENDCMP
+#
+$CMP GB_BATTERY
+D Батарея
+$ENDCMP
+#
+$CMP GB_BATTERY_SET
+D Батарея секционная
+$ENDCMP
+#
+$CMP GB_SBATTERY
+D Солнечная батарея
+$ENDCMP
+#
+$CMP GB_SBATTERY_SET
+D Солнечная батарея секционная
+$ENDCMP
+#
+$CMP GND
+D Соединение с общим проводом (корпусом)
+$ENDCMP
+#
+$CMP GROUND
+D Заземление
+$ENDCMP
+#
+$CMP I_SPICE
+D Источник тока (SPICE модель)
+$ENDCMP
+#
+$CMP POWER
+D Источник питания схемы
+$ENDCMP
+#
+$CMP V_SPICE
+D Источник напряжения (SPICE модель)
+$ENDCMP
+#
+#End Doc Library

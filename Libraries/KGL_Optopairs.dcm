@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP U_DIODE
+D Оптрон диодный
+$ENDCMP
+#
+$CMP U_NPN
+D Оптрон транзисторный NPN с выводом от базы
+$ENDCMP
+#
+$CMP U_NPN_2
+D Оптрон транзисторный NPN без вывода от базы
+$ENDCMP
+#
+$CMP U_PNP
+D Оптрон транзисторный PNP с выводом от базы
+$ENDCMP
+#
+$CMP U_PNP_2
+D Оптрон транзисторный PNP без вывода от базы
+$ENDCMP
+#
+$CMP U_RESISTOR
+D Оптрон резисторный
+$ENDCMP
+#
+$CMP U_THYRISTOR
+D Оптрон тиристорный
+$ENDCMP
+#
+#End Doc Library
